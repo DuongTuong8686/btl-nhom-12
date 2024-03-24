@@ -1,0 +1,33 @@
+.giohang12 {
+  border: solid 1px rgb(254, 254, 254);
+  height: 400px;
+  width: 500px;
+  margin: 0 auto;
+  margin-top: 60px;
+}
+.giohang12 .dong {
+  border: solid 1px rgb(255, 255, 255);
+  height: 50px;
+  width: 100%;
+}
+.giohang12 .dd1 {
+  height: 250px;
+}
+.dd2 h2 {
+  text-align: center;
+  color: rgb(141, 56, 125);
+}
+.dd3 p {
+  text-align: center;
+  color: rgb(97, 96, 96);
+}
+.dd4 input {
+  width: 100px;
+  height: 40px;
+  border-radius: 30px;
+  font-size: 20px;
+  margin-left: 200px;
+  color: white;
+  background-color: rgb(141, 56, 125);
+  border: 0px;
+}

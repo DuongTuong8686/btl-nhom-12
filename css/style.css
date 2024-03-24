@@ -1,0 +1,78 @@
+.menu li,
+.logo {
+  display: inline-block;
+  padding: 5px;
+}
+.menu {
+  float: right;
+}
+.logo a {
+  padding: 5px;
+  font-size: 30px;
+  margin-left: 5px;
+  color: rgb(255, 255, 255);
+}
+.menu ul li a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+.phan1 {
+  background-color: rgb(141, 56, 125);
+  padding: 8px;
+}
+.menu ul li a:hover {
+  font-size: 20px;
+}
+.logo2 {
+  height: 150px;
+  width: 150px;
+  margin-top: 10px;
+}
+.phan2 {
+  display: inline-block;
+  float: left;
+}
+.o1 {
+  height: 30px;
+  width: 300px;
+  border-radius: 30px 0 0 30px;
+}
+.o2 {
+  height: 34px;
+  width: 50px;
+}
+.search {
+  margin-top: 30px;
+  float: left;
+  margin-left: 300px;
+}
+.thongtin {
+  display: inline-block;
+  font-size: 60px;
+  float: right;
+  margin-right: 50px;
+  margin-top: 10px;
+}
+.thongtin strong {
+  font-size: 20px;
+}
+.quangcao {
+  border: 1px solid white;
+  width: 800px;
+  height: 500px;
+  padding: 1px;
+
+  margin: 0 auto;
+  margin-top: 150px;
+}
+.hang {
+  border: 1px solid white;
+  height: 60px;
+  width: 100%;
+}
+.hang div {
+  border: 1px solid white;
+  width: 24%;
+  display: inline-block;
+  height: 50px;
+}
